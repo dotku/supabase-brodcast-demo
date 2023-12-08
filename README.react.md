@@ -1,8 +1,6 @@
-# SUPABASE BRODCAST DEMO
+# Getting Started with Create React App
 
-## Tech Stack
-
-- [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
